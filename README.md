@@ -38,7 +38,7 @@ Press Win+R, type in "shell:startup", hit enter and create a shortcut to the "Tr
 
 
 ### **Hiding the exit-button**
-Make sure Tray Toolbox isn't running (Click "Exit" or stop the process in your task manager).<br>Open the "context.txt" file. And change "hideExit=false" to "hideExit=true". <br>If you change the text to "hideExit=false" again, the button will reappear.<br>Start Tray Toolbox.
+Make sure Tray Toolbox isn't running (Click "Exit" or stop the process in your task manager).<br>Open the "context.txt" file and change "hideExit=false" to "hideExit=true". <br>If you change the text to "hideExit=false" again, the button will reappear.<br>Start Tray Toolbox.
 
 *Example:*
 
