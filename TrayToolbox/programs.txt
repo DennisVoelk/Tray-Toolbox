@@ -1,0 +1,4 @@
+Taskmanager
+C:\Windows\System32\Taskmgr.exe
+Mixer
+C:\Windows\System32\SndVol.exe

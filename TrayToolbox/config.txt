@@ -1,0 +1,3 @@
+iconText=Tray Toolbox
+exitText=Exit
+hideExit=false
